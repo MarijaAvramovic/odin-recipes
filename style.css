@@ -7,7 +7,6 @@ body {
 h1 {
   background: rgb(200, 202, 224);
   border: 1px solid rgb(46, 46, 85);
-  /* CHANGE ME */
   padding: 8px;
   margin: 12px;
   text-align: center;
@@ -15,25 +14,28 @@ h1 {
 ul{
      text-align: left;
      padding-left: 0;
-     
-  margin: 12px;
- 
+     margin: 12px;
 }
 li{
     display: inline-block;
       background: rgb(227, 227, 231);
       padding: 8px;
       border: 3px solid rgb(183, 161, 243);
-    
-  margin: 2px;
+      margin: 2px;
 }
- 
+img{
+    display: block;
+    margin: 0 auto;
+}
+h2 {
+   background: rgb(200, 202, 224);
+  border: 1px solid rgb(46, 46, 85);
 
-.three {
-  background: peachpuff;
-  border: 3px solid brown;
-  width: 200px;
-  /* CHANGE ME */
-  padding: 32px;
-  margin-left: auto;
+  text-align: center; 
 }
+h2, p{
+     padding: 8px;
+  margin: 12px;
+}
+
+ 
