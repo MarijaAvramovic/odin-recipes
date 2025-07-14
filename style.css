@@ -57,3 +57,20 @@ p{
  #pleft{
   text-align: right;
  }
+
+ /* cards */
+ .card {
+  display: flex;
+  align-items: center;
+ 
+ }
+ .card div {
+  flex: 1;
+ }
+ .left{
+  text-align: center;
+
+ }
+  .left img{
+   border-radius: 10%;
+ }
