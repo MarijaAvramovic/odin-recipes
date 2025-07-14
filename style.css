@@ -90,3 +90,9 @@ p{
   .gallery .left{
   text-align: baseline;
  }
+
+ /* napoleon  */
+ .napoleoncard{
+  background-color: rgb(242, 173, 173);
+  padding: 50px;
+ }
