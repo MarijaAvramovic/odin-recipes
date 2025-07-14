@@ -17,3 +17,5 @@ practiced img style in html and using %
 used name gallery/gallery card abriviation 
 
 display flex - left and right used flex 1
+
+spent time 1hr
