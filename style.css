@@ -96,3 +96,32 @@ p{
   background-color: rgb(242, 173, 173);
   padding: 50px;
  }
+ /* cheesecake */
+ nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(242, 209, 242)
+ }
+  nav h1{
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    margin-left: 10px;
+ }
+
+
+ .items{
+  display: flex;
+  padding: 30px;
+  background-color: rgb(231, 173, 139);
+  align-items: flex-start;
+
+}
+.items{
+  flex: 1;
+}
+.items h2,h3{
+  flex: 1;
+  margin-top: 0;
+}
